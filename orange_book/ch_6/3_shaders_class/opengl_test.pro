@@ -3,6 +3,11 @@ CONFIG += console c++11
 CONFIG -= app_bundle
 CONFIG -= qt
 
+HEADERS += \
+    glad.h \
+    khrplatform.h \
+    shader_s.h
+
 SOURCES += \
         glad.c \
         main.cpp
@@ -14,13 +19,3 @@ else:unix: LIBS += -L$$PWD/../gl_test/learnopengl/lib/ -lglfw3 -lGL -lX11 -lXran
 
 INCLUDEPATH += $$PWD/../gl_test/learnopengl/includes/GLFW
 DEPENDPATH += $$PWD/../gl_test/learnopengl/includes/GLFW
-
-HEADERS += \
-    glad.h \
-    khrplatform.h
-
-DISTFILES += \
-    3.3.shader.fs \
-    3.3.shader.vs
-
-
