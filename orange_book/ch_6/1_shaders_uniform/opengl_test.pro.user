@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 5.0.2, 2023-05-13T17:05:06. -->
+<!-- Written by QtCreator 5.0.2, 2023-05-14T17:37:08. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -235,13 +235,15 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/an/opengl_test/opengl_test.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/an/opengl_test/opengl_test.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">opengl_test2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/an/GitHub/my_opengl_playground/orange_book/ch_6/1_shaders_uniform/opengl_test.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/an/GitHub/my_opengl_playground/orange_book/ch_6/1_shaders_uniform/opengl_test.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/an/build-opengl_test-Desktop_Qt_5_12_12_GCC_64bit-Debug</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
