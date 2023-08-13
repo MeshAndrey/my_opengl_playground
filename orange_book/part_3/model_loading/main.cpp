@@ -81,11 +81,11 @@ int main()
 
     // load models
     // -----------
-    Model ourModel("objects/backpack/backpack.obj");
+    Model ourModel("objects/nanosuit/nanosuit.obj");
 
 
     // draw in wireframe
-    //glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+    glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 
     // render loop
     // -----------
